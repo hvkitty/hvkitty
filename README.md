@@ -36,13 +36,9 @@ Backend Architect by day, DevOps Chaos Engineer by night. I specialize in buildi
  
 ---
  
-### 📈 System Health (CRT Mode)
+### 📈 Stats
  
 ![](https://pixel-profile.vercel.app/api/github-stats?username=hvkitty&theme=crt)
- 
-<p align="center">
-<img src="https://pixel-profile.vercel.app/api/top-langs?username=hvkitty&theme=crt" alt="Top Langs CRT" />
-</p>
  
 ---
  
@@ -50,6 +46,7 @@ Backend Architect by day, DevOps Chaos Engineer by night. I specialize in buildi
  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hvkitty&color=red&style=flat-square&label=VISITORS" alt="Visitor Counter" />
+![](https://komarev.com/ghpvc/?username=hvkitty&color=red&style=flat-square&label=VISITORS)
 <br>
 <i>Souls captured by this README since initialization.</i>
 </p>
