@@ -46,7 +46,6 @@ Backend Architect by day, DevOps Chaos Engineer by night. I specialize in buildi
  
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hvkitty&color=red&style=flat-square&label=VISITORS" alt="Visitor Counter" />
-![](https://komarev.com/ghpvc/?username=hvkitty&color=red&style=flat-square&label=VISITORS)
 <br>
 <i>Souls captured by this README since initialization.</i>
 </p>
